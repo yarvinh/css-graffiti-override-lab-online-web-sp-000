@@ -8,7 +8,7 @@
 }
 
 #wall > .parent > .tag-4 {
-  background: initial;
+  background: none;
   position: static;
   width: 0;
   height: 0;
