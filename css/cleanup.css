@@ -1,8 +1,16 @@
 /* write your override styles here */
-#wall > .tag-1 {
+#wall > .tag-1, #tag-2 {
   position: static;
   width: 0;
   height: 0;
   top: 0;
   left: 0;
 }
+
+/*#wall > .tag-2,  {
+  position: static;
+  width: 0;
+  height: 0;
+  top: 0;
+  left: 0;
+}*/
