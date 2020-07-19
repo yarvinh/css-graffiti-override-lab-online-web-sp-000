@@ -7,7 +7,7 @@
   left: 0;
 }
 
-#wall > .parent > .tag-4, #wall > #tag-5, #wall > #tag-6, #wall > #tag-7  {
+#wall > .parent > .tag-4, #wall > .parent> #tag-5, #wall > #tag-6, #wall > #tag-7  {
   position: static;
   width: 0;
   height: 0;
