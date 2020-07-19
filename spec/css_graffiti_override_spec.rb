@@ -14,6 +14,7 @@ RSpec.describe 'css/cleanup.css' do
   it 'has overrides added' do
     minimum_bytes = 300
     size = File.size("css/cleanup.css")
+    p "size",size
     expect(size).to be > minimum_bytes, "You should have at least 300 bytes worth of updates to css/cleanup.css"
   end
 end

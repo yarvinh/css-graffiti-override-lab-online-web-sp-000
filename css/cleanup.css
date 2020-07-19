@@ -1,1 +1,25 @@
 /* write your override styles here */
+#wall > .tag-1, #wall > #tag-2, #wall > #tag-3 {
+  position: static;
+  width: 0;
+  height: 0;
+  top: 0;
+  left: 0;
+}
+
+.parent > #tag-4, .parent > #tag-5{
+  position: static;
+  width: 0;
+  height: 0;
+  top: 0;
+  left: 0;
+}
+
+
+div > #tag-6, div > #tag-7{
+  position: static;
+  width: 0;
+  height: 0;
+  top: 0;
+  left: 0;
+}
