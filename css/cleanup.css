@@ -7,10 +7,10 @@
   left: 0;
 }
 
-/*#wall > .tag-2,  {
+.parent > .tag-4,  {
   position: static;
   width: 0;
   height: 0;
   top: 0;
   left: 0;
-}*/
+}
