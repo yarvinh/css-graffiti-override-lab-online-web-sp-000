@@ -7,7 +7,7 @@
   left: 0;
 }
 
-.parent > #tag-4, .parent #tag-5 {
+.parent > #tag-4, .parent > #tag-5 {
 
   position: static;
   width: 0;
