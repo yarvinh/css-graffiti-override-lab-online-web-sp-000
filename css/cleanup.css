@@ -7,7 +7,7 @@
   left: 0;
 }
 
-.parent > #tag-4, .parent > #tag-5, div > .parent > #tag-5 {
+.parent > #tag-4, .parent > #tag-5, div > .parent > #tag-6 {
   position: static;
   width: 0;
   height: 0;
