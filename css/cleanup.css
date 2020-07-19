@@ -16,7 +16,7 @@
 }
 
 
-div > #tag-6, div > #tag-7,{
+div > #tag-6, div > #tag-7{
   position: static;
   width: 0;
   height: 0;
