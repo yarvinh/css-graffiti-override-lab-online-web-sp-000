@@ -1,5 +1,6 @@
 /* write your override styles here */
 #wall > .tag-1 {
+  position: static;
   width: 0;
   height: 0;
 }
